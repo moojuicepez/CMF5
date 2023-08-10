@@ -15,7 +15,6 @@ function App() {
       <Counter commanderNames={allNames} onNameChange={handleNameChange} />
       <Counter commanderNames={allNames} onNameChange={handleNameChange} />
       <Counter commanderNames={allNames} onNameChange={handleNameChange} />
-      {allNames}
     </div>
   );
 }
